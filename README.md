@@ -20,13 +20,6 @@ npm install -g nodemon
 nodemon server
 ```
 
-3. Start the React app:
-```
-cd app/listings/
-npm install
-npm start
-```
-
 ## Disclaimer
 
 Use at your own risk; not a supported MongoDB product
